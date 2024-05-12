@@ -1,6 +1,6 @@
 * {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  background-color: antiquewhite;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: #fafaf9;
 }
 .Fondo {
   display: grid;
@@ -8,7 +8,7 @@
   justify-content: center;
 }
 .Tarjet {
-  background-color: white;
+  background-color: #ffff;
   margin-top: 136px;
   padding: 16px;
   width: 368px;
@@ -33,11 +33,25 @@
 }
 .p2 {
   background-color: white;
+  color: #20293a;
   font-size: 18px;
 }
 .p3 {
+  font-size: 14px;
+  color: #6c727f;
   background-color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.linia {
+  margin-left: -4.5%;
+  width: 108.5%;
+  color: #e5eaf0;
 }
 .p4 {
+  font-size: 13px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   background-color: white;
+  color: #6c727f;
 }
